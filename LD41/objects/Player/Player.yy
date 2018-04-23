@@ -44,9 +44,9 @@
     "physicsFriction": 0.2,
     "physicsGroup": 1,
     "physicsKinematic": false,
-    "physicsLinearDamping": 0.1,
+    "physicsLinearDamping": 0.2,
     "physicsObject": true,
-    "physicsRestitution": 0.1,
+    "physicsRestitution": 0.2,
     "physicsSensor": false,
     "physicsShape": 1,
     "physicsShapePoints": [

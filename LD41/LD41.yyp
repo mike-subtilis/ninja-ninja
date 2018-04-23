@@ -58,6 +58,25 @@
             }
         },
         {
+            "Key": "02841779-ec4d-4296-90e2-649baabaaeee",
+            "Value": {
+                "id": "c1c62c7a-c74f-4044-8cf3-61f80888caea",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/anyKeyAdvance\/anyKeyAdvance.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "03b68c40-c2c2-4418-a881-683ee4903142",
             "Value": {
                 "id": "23446597-a236-4902-a192-939ec2d78990",
@@ -191,6 +210,25 @@
             }
         },
         {
+            "Key": "33a3cb9f-f682-429b-9c4d-443c716b1bf7",
+            "Value": {
+                "id": "bdf0eeed-e00d-41b0-a7a0-125ea786ae97",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sprite10\/sprite10.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "36c68081-642f-46a2-9b67-73fdbad3ff63",
             "Value": {
                 "id": "88ec3287-2ef3-4563-b955-4a487ff65252",
@@ -248,6 +286,44 @@
             }
         },
         {
+            "Key": "455ca729-e550-40be-8a04-c3774290f1c1",
+            "Value": {
+                "id": "0cdd9c27-ff85-4fb2-973d-99d87316e643",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/drone\/drone.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "461617c3-f044-49d0-a372-326f7cec8e03",
+            "Value": {
+                "id": "ffc9225f-fffa-4d51-82c7-b09af97cc00c",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/split\/split.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "462c6557-53cf-4f40-a972-d88b9ce7d201",
             "Value": {
                 "id": "4607997a-3d08-4d62-847b-2e8e0c3933bf",
@@ -286,6 +362,25 @@
             }
         },
         {
+            "Key": "4959568e-75e3-491b-aa29-ee1cb8a2badd",
+            "Value": {
+                "id": "fe37eb33-e488-4fe2-9674-0d765d1a890c",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/droneTargetSprite\/droneTargetSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4bfdabaa-fe7d-4c4a-aea9-b42b4587923d",
             "Value": {
                 "id": "b0720fff-8127-48d3-b047-6cd2c83ca585",
@@ -321,6 +416,25 @@
                 ],
                 "resourcePath": "views\/521a92f1-0c6d-439b-8e94-fbc508f974f5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5384fe0c-5cea-456a-8833-48ddf8a0ea65",
+            "Value": {
+                "id": "7a4f5617-57f9-4e45-a226-4a8e329915c6",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/droneTarget\/droneTarget.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -378,6 +492,25 @@
                 ],
                 "resourcePath": "views\/6db6d4b7-6699-4166-96a0-c0052edae918.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "70bf6260-c758-4bac-9d73-6611d6acbace",
+            "Value": {
+                "id": "954263b6-c8ca-424c-b407-0063774a10a9",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/title\/title.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -647,6 +780,25 @@
             }
         },
         {
+            "Key": "c9f81034-7bea-4864-9073-b5c91cbee1b9",
+            "Value": {
+                "id": "3b4a454b-e5fe-4225-8fca-95e46469ddcf",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/droneSprite\/droneSprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc903d84-db02-4721-b79d-08994b6b6688",
             "Value": {
                 "id": "f8aca278-f20f-4390-83a8-d3a05f162bd2",
@@ -719,6 +871,25 @@
                     "default"
                 ],
                 "resourcePath": "rooms\/basicLoop\/basicLoop.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "e733da7a-2993-4003-b874-690cd0b85b3e",
+            "Value": {
+                "id": "656fce3c-16c8-4dd2-a286-3f0b1ea55d2f",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/shortcut\/shortcut.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -799,6 +970,25 @@
             }
         },
         {
+            "Key": "f3f9608e-4c5b-4947-9ced-f6a01027f3be",
+            "Value": {
+                "id": "ada22bf3-7406-481c-8ca6-9201e659cf3a",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/getSurfaceAtPoint\/getSurfaceAtPoint.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "053d8a63-d9cc-42d7-881a-7bcfc46210b8",
@@ -858,7 +1048,8 @@
     ],
     "script_order": [
         "d60cca38-176d-426e-805e-bde7c9f4c1ff",
-        "5ce0e9f5-ccd2-4161-878f-e1c409a456df"
+        "5ce0e9f5-ccd2-4161-878f-e1c409a456df",
+        "f3f9608e-4c5b-4947-9ced-f6a01027f3be"
     ],
     "tutorial": ""
 }

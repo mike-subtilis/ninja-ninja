@@ -2,7 +2,7 @@
 {
     "name": "finalCredits",
     "id": "03b68c40-c2c2-4418-a881-683ee4903142",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
